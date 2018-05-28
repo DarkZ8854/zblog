@@ -1,0 +1,12 @@
+{
+    "require": {
+        "erusev/parsedown": "^1.6",
+        "league/html-to-markdown": "^4.4"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}

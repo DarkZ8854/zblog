@@ -1,0 +1,48 @@
+.emd-toc {
+    max-height: 450px;
+    background-color: #EFEFEF;
+    padding: 10px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.emd-toc-title {
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+}
+.emd-toc-item {
+    margin-top: 5px;
+}
+.emd-toc-item > a {
+    color: #000000;
+    padding: 0px 15px;
+    line-height: 30px;
+    display: block;
+    box-shadow: 3px 3px 5px #D0D0D0;
+}
+.emd-toc-h2 {
+    padding-left: 15px;
+}
+.emd-toc-h3 {
+    padding-left: 25px;
+}
+.emd-toc-h4 {
+    padding-left: 35px;
+}
+.emd-toc-h5 {
+    padding-left: 45px;
+}
+.emd-toc-h6 {
+    padding-left: 55px;
+}
+.emd-toc-h1>a {
+    background-color: #FFFFFF;
+}
+.emd-toc-h2>a,
+.emd-toc-h3>a,
+.emd-toc-h4>a,
+.emd-toc-h5>a,
+.emd-toc-h6>a {
+    border-radius: 15px;
+    background-color: #FBFBFB;
+}
